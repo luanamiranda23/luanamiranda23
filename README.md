@@ -36,6 +36,7 @@
 
 
 
+  ![Snake animation](https://github.com/luanamiranda23/luanamiranda23/blob/output/github-contribution-grid-snake.svg)
 
 
 
