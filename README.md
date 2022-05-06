@@ -1,7 +1,5 @@
 -Olá! Eu sou a Luana Miranda 😊😊
 
--😍♀️Aluna na Stackx (Formação de Desenvolvedores de Software)
-
 -😍Graduanda em Análise e Desenvolvimento de Sistemas...
 
 -😍♀️Pós Gradução em Engenharia de Software...
