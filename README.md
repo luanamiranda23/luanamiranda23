@@ -5,9 +5,6 @@
 
 🎓😍😍Graduada em Análise e Desenvolvimento de Sistemas (Universidade Pitágoras Unopar Anhanguera) em 11/12/2021.
 
-<img src = "giphyjs.gif" width="325px" align="right">
-
-
 Estudante desse fantástico mundo da tecnologia,apaixonada por desenvolvimento...
 
 O sucesso é a soma de pequenos esforços repetidos dia após dia.( Robert Collier)
