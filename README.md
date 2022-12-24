@@ -5,6 +5,7 @@
 
 🎓😍😍Graduada em Análise e Desenvolvimento de Sistemas (Universidade Pitágoras Unopar Anhanguera) em 11/12/2021.
 
+<img src = "giphyjs.gif" width="325px" align="right">
 
 
 Estudante desse fantástico mundo da tecnologia,apaixonada por desenvolvimento...
@@ -16,7 +17,6 @@ O sucesso é a soma de pequenos esforços repetidos dia após dia.( Robert Colli
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 
 ## 🎓 CERTIFICADOS
 
@@ -37,4 +37,3 @@ O sucesso é a soma de pequenos esforços repetidos dia após dia.( Robert Colli
 
 <img src = "banner.gif" width="325px" align="left">
 
-<img src = "giphyjs.gif" width="325px" align="left">
