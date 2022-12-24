@@ -37,3 +37,4 @@ O sucesso é a soma de pequenos esforços repetidos dia após dia.( Robert Colli
 
 <img src = "banner.gif" width="325px" align="left">
 
+<img src = "giphyjs.gif" width="325px" align="left">
