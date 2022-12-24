@@ -1,8 +1,10 @@
-# luanamiranda
 <img src = "giphy.gif" width="325px" align="right">
 
 # Olá, me chamo Luana Miranda! 
 ## Bem vindo(a) ao meu perfil GitHub 👋😍🤩
+
+🎓😍😍Graduada em Análise e Desenvolvimento de Sistemas (Universidade Pitágoras Unopar Anhanguera) em 11/12/2021.
+
 
 
 Estudante desse fantástico mundo da tecnologia,apaixonada por desenvolvimento...
