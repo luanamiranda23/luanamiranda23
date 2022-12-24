@@ -34,3 +34,6 @@ O sucesso é a soma de pequenos esforços repetidos dia após dia.( Robert Colli
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=luanamiranda23&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 
 </div>
+
+<img src = "banner.gif" width="325px" align="right">
+
