@@ -18,3 +18,10 @@ O sucesso é a soma de pequenos esforços repetidos dia após dia.( Robert Colli
     <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,angular,vue,react,php,laravel,mysql,vscode,bootstrap,java,eclipse" />
   </a>
 </p>
+
+
+  <div id="badges">
+  <a href = "https://github.com/luanamiranda23">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
