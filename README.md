@@ -34,3 +34,6 @@ O sucesso é a soma de pequenos esforços repetidos dia após dia.( Robert Colli
 
 <img src = "banner.gif" width="325px" align="left">
 
+![snake gif](https://github.com/luanamiranda23/luanamiranda23/blob/output/github-contribution-grid-snake.svg)
+
+
